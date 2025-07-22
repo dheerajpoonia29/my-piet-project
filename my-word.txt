@@ -1,1 +1,29 @@
-Ashu panchal
+hi my name is dheeraj, i'm from rajasthan dist: sri ganganagar
+hi my name is pooja, i'm from panipat
+<<<<<<< HEAD
+hi my name is muskan ,i am from samlakha
+=======
+hi my name is gunn,i'm from rohtak
+<<<<<<< HEAD
+I am Ashu CR 
+kfniruevr
+=======
+hi my name is optimus prime, i am from cybertron
+<<<<<<< HEAD
+Hi my name is Deepak, i am from karnal
+=======
+hi my name is optimus prime, i am from cybertron
+hi my name is optimus prime, i am from cybertron
+hi my name is optimus prime, i am from cybertron
+hi my name is optimus prime, i am from cybertron
+hi my name is optimus prime, i am from cybertron
+hi my name is tanisha ,I am from Panipat
+my name is ajay, jammu
+>>>>>>> 399c0e839cf502fc3042147c896f03555f54859f
+hi my name is pooja.i am from samalkha
+
+hi my name is prianshu
+>>>>>>> 8d545f2a446e8976ddac983c955f7e14c77e11c8
+
+my name is keshav
+>>>>>>> 9cf05bd238c4e4bd213e20f619d8549b6e1c33e0
