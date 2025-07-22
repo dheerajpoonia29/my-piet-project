@@ -1,3 +1,8 @@
 hi my name is dheeraj, i'm from rajasthan dist: sri ganganagar
+<<<<<<< HEAD
 hi my name is pooja, i'm from Panipat
 Hi my name is Ashu, I am from panipat
+=======
+hi my name is pooja, i'm from panipat
+hi my name is aniket ,i am from israna.
+>>>>>>> 775deb1a12c5c2677d80fcee400c03127ad892fd
